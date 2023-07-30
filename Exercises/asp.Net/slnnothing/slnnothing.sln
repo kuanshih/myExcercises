@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjnothing", "prjnothing\prjnothing.csproj", "{3102216D-1C0D-458E-8942-FDE426C2012F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3102216D-1C0D-458E-8942-FDE426C2012F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3102216D-1C0D-458E-8942-FDE426C2012F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3102216D-1C0D-458E-8942-FDE426C2012F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3102216D-1C0D-458E-8942-FDE426C2012F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F96DFCB-A452-4D49-8B26-51626D882EC0}
+	EndGlobalSection
+EndGlobal
